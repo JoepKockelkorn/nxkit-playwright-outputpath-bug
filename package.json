@@ -18,6 +18,8 @@
     "@nrwl/react": "15.8.6",
     "@nrwl/vite": "15.8.6",
     "@nrwl/workspace": "15.8.6",
+    "@nxkit/playwright": "^2.1.2",
+    "@playwright/test": "^1.25.2",
     "@testing-library/react": "14.0.0",
     "@types/node": "18.14.2",
     "@types/react": "18.0.28",
